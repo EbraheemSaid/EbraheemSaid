@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EbraheemSaid
-- 👀 I’m interested in SWE
-- 🌱 I’m currently learning Front-End & Back-End
-- 💞️ I’m looking to contribure on Open sources 
+- 👀 I’m a Software Engineer
+- 🌱 I’m currently learning FullStack Engineering
+- 💞️ I’m looking to contribure on Open Source Projects
 
 <!---
 EbraheemSaid/EbraheemSaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
