@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EbraheemSaid
 - 👀 I’m a Software Engineer
-- 🌱 I’m currently learning FullStack Engineering
+- 🌱 I’m currently learning Full-Stack Engineering
 - 💞️ I’m looking to contribure on Open Source Projects
 
 <!---
