@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @EbraheemSaid
-- 👀 I’m a Software Engineer
-- 🌱 I’m currently learning Full-Stack Engineering
-- 💞️ I’m looking to contribure on Open Source Projects
+$ ebrafetch
 
-<!---
-EbraheemSaid/EbraheemSaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  ▄████▄      ▄████▄    ebraheem@dev
+ ██    ██    ██    ██   ────────────────────────────────────────────
+██      ██   ▀██▄       Uptime: 23 years
+██████████     ▀██▄     Role: Expert SWE @ Mercor  (+ Reviewer)
+██               ▀██    Experience: 1 year
+██▄     ▄    ██    ██   Currently: building my own SaaS
+ ▀██████▀     ▀████▀    Languages: C# / .NET, TypeScript, JavaScript
+                        Frameworks: Angular, React, Node.js
+                        Runtime: Node.js
+                        OS: Windows + Linux
+                        Editor: VS Code
+                        Hobby: <add yours>
+
+                        contacts
+                        ────────────────────────────────────────────
+                        GitHub:   github.com/EbraheemSaid
+                        Email:    ebraheemsaid7@gmail.com
+                        LinkedIn: linkedin.com/in/Ebraheem-said
